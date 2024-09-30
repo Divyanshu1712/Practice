@@ -1,0 +1,24 @@
+/* d */
+.container{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #635bff;
+    height: 300px;
+    width: 600px;
+}
+
+.item1{
+    background-color: #635bff;
+    height: 5rem;
+    width: 5rem;
+    border-radius: 0.5rem;
+}
+
+.item2{
+    background-color: #635bff;
+    height: 5rem;
+    width: 5rem;
+    border-radius: 0.5rem;
+}
+

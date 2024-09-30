@@ -1,0 +1,29 @@
+1. To-do List App: 
+A basic app to manage tasks. Done
+
+2. Calculator: done
+A simple calculator for arithmetic operations.
+
+3. Guessing Game:  done 
+A game where the user guesses a randomly generated number.
+
+4. Text-Based Adventure Game: 
+A simple game with branching storylines.
+
+5. Contact Book: ^^^^^ done
+A basic app to store and manage contacts. 
+
+6. Expense Tracker: 
+An app to track personal or business expenses.
+
+7. Weather App:
+Fetches weather data from an API and displays it.
+
+8. Basic Web Scraping App: 
+Scrapes data from a simple website.
+
+9. Email Automation Tool: 
+Sends automated emails based on conditions.
+
+10. Basic Data Visualization Tool: 
+Creates simple charts and graphs from data.
